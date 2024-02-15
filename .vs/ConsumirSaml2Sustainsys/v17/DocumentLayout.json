@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|c:\\users\\dave\\source\\repos\\consumirsaml2sustainsys\\consumirsaml2sustainsys\\consumirsaml2sustainsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|solutionrelative:consumirsaml2sustainsys\\consumirsaml2sustainsys.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5243EC-B1D3-44BE-B402-A12A6FE20F00}|Sustainsys.Saml2\\Sustainsys.Saml2.csproj|c:\\users\\dave\\source\\repos\\consumirsaml2sustainsys\\versioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5243EC-B1D3-44BE-B402-A12A6FE20F00}|Sustainsys.Saml2\\Sustainsys.Saml2.csproj|solutionrelative:versioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|c:\\users\\dave\\source\\repos\\consumirsaml2sustainsys\\consumirsaml2sustainsys\\controllers\\loginidp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|solutionrelative:consumirsaml2sustainsys\\controllers\\loginidp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|c:\\users\\dave\\source\\repos\\consumirsaml2sustainsys\\consumirsaml2sustainsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{70A5A9BD-C7B5-4648-8057-D83703C47F42}|ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj|solutionrelative:consumirsaml2sustainsys\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,6 +51,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VersionInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\VersionInfo.cs",
+              "RelativeDocumentMoniker": "VersionInfo.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\VersionInfo.cs",
+              "RelativeToolTip": "VersionInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T22:04:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumirSaml2Sustainsys\\Program.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\Program.cs",
+              "RelativeToolTip": "ConsumirSaml2Sustainsys\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T21:55:32.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConsumirSaml2Sustainsys",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj",
+              "RelativeDocumentMoniker": "ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj",
+              "RelativeToolTip": "ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-15T20:38:27.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginIdp.cs",
+              "DocumentMoniker": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\Controllers\\LoginIdp.cs",
+              "RelativeDocumentMoniker": "ConsumirSaml2Sustainsys\\Controllers\\LoginIdp.cs",
+              "ToolTip": "C:\\Users\\dave\\source\\repos\\ConsumirSaml2Sustainsys\\ConsumirSaml2Sustainsys\\Controllers\\LoginIdp.cs",
+              "RelativeToolTip": "ConsumirSaml2Sustainsys\\Controllers\\LoginIdp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-15T19:51:01.653Z",
+              "EditorCaption": ""
             }
           ]
         }

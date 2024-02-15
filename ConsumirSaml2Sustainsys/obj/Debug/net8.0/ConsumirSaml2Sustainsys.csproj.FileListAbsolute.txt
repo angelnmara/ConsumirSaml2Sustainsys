@@ -30,3 +30,4 @@ C:\Users\dave\source\repos\ConsumirSaml2Sustainsys\ConsumirSaml2Sustainsys\obj\D
 C:\Users\dave\source\repos\ConsumirSaml2Sustainsys\ConsumirSaml2Sustainsys\obj\Debug\net8.0\ConsumirSaml2Sustainsys.pdb
 C:\Users\dave\source\repos\ConsumirSaml2Sustainsys\ConsumirSaml2Sustainsys\obj\Debug\net8.0\ConsumirSaml2Sustainsys.genruntimeconfig.cache
 C:\Users\dave\source\repos\ConsumirSaml2Sustainsys\ConsumirSaml2Sustainsys\obj\Debug\net8.0\ref\ConsumirSaml2Sustainsys.dll
+C:\Users\dave\source\repos\ConsumirSaml2Sustainsys\ConsumirSaml2Sustainsys\obj\Debug\net8.0\ConsumirSaml2Sustainsys.sourcelink.json
